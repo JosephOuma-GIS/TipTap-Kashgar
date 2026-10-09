@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this software release."
+title: "Tip–Tap: analysis code for persistent crop stress and agricultural land-use change in the Kashgar oasis"
+authors:
+  - family-names: Ouma
+    given-names: Joseph Otieno
+  - family-names: Daneshi
+    given-names: Alireza
+  - family-names: Yaghobi
+    given-names: Soraya
+  - family-names: Eziz
+    given-names: Anwar
+  - family-names: Kurban
+    given-names: Alishir
+  - family-names: Azadi
+    given-names: Hossein
+license: MIT
+repository-code: "https://github.com/JosephOuma-GIS/TipTap-Kashgar"
+version: "1.0.0"
+date-released: "2026-10-09"
