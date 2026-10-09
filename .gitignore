@@ -1,0 +1,7 @@
+outputs_final/
+outputs_recovery/
+*.parquet
+*.gpkg
+*.tif
+.ipynb_checkpoints/
+__pycache__/
